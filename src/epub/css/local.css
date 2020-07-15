@@ -7,8 +7,8 @@ body [xml|lang]{
 }
 
 span[epub|type~="subtitle"]{
-        display: block;
-        font-weight: normal;
+	display: block;
+	font-weight: normal;
 }
 
 [epub|type~="z3998:song"] p,
@@ -30,7 +30,6 @@ p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
 }
-
 
 [epub|type~="z3998:letter"] header{
 	text-align: right;
@@ -66,25 +65,25 @@ p span.i1{
 }
 
 table{
-  margin: 1em auto;
+	margin: 1em auto;
 }
 
 td:first-child{
-  font-variant-numeric: tabular-nums;
-  text-align: right;
+	font-variant-numeric: tabular-nums;
+	text-align: right;
 }
 
 blockquote > header{
-  font-variant: small-caps;
-  margin-bottom: .5em;
-  text-align: center;
-  text-transform: lowercase;
+	font-variant: small-caps;
+	margin-bottom: .5em;
+	text-align: center;
+	text-transform: lowercase;
 }
 
 [epub|type~="se:diary.dateline"]{
-  font-style: italic;
-  margin-bottom: .5em;
-  margin-top: 1em;
+	font-style: italic;
+	margin-bottom: .5em;
+	margin-top: 1em;
 }
 
 [epub|type~="z3998:dramatis-personae"]{
@@ -105,7 +104,7 @@ blockquote > header{
 [epub|type~="z3998:dramatis-personae"] ul > li > ul > li{
 	font-style: italic;
 	font-variant: normal;
- 	margin: 1em;
+	margin: 1em;
 }
 
 dl{
