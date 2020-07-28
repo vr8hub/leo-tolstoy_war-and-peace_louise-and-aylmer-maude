@@ -79,7 +79,6 @@
 		<meta property="display-seq" refines="#translator-2">2</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
-
 		<dc:contributor id="artist">Ernest Meissonier</dc:contributor>
 		<meta property="file-as" refines="#artist">Meissonier, Ernest</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Jean-Louis-Ernest Meissonier</meta>
